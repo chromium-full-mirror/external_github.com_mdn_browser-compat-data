@@ -1,5 +1,23 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.1.8](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.8)
+
+October 23, 2026
+
+### Additions
+
+- `api.AudioContext.AudioContext.options_renderSizeHint_parameter` ([#30947](https://github.com/mdn/browser-compat-data/pull/30947))
+- `api.OfflineAudioContext.OfflineAudioContext.options_renderSizeHint_parameter` ([#30947](https://github.com/mdn/browser-compat-data/pull/30947))
+- `browsers.bun.releases.1.4.4` ([#30952](https://github.com/mdn/browser-compat-data/pull/30952))
+- `browsers.edge.releases.159` ([#30952](https://github.com/mdn/browser-compat-data/pull/30952))
+
+### Statistics
+
+- 4 contributors have changed 16 files with 112 additions and 20 deletions in 6 commits ([`v8.1.7...v8.1.8`](https://github.com/mdn/browser-compat-data/compare/v8.1.7...v8.1.8))
+- 20,900 total features
+- 1,287 total contributors
+- 5,770 total stargazers
+
 ## [v8.1.7](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.7)
 
 October 22, 2026
